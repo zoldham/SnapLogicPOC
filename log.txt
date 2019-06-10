@@ -1,0 +1,790 @@
+2019-06-04 17:42:53: 0 seconds since last sync, 0 changes so far.
+2019-06-04 17:42:53: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 17:43:03: 10 seconds since last sync, 0 changes so far.
+2019-06-04 17:43:03: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 17:43:13: 20 seconds since last sync, 0 changes so far.
+2019-06-04 17:43:13: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 17:43:24: 30 seconds since last sync, 0 changes so far.
+2019-06-04 17:43:24: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 17:43:34: 40 seconds since last sync, 0 changes so far.
+2019-06-04 17:43:34: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 17:43:44: 50 seconds since last sync, 0 changes so far.
+2019-06-04 17:43:44: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 17:43:55: Time threshold reached (60 seconds), starting sync.
+2019-06-04 17:44:05: Sync request successful.
+2019-06-04 17:44:05: 0 seconds since last sync, 0 changes so far.
+2019-06-04 17:44:05: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 17:44:15: 10 seconds since last sync, 0 changes so far.
+2019-06-04 17:44:15: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 17:44:25: 20 seconds since last sync, 0 changes so far.
+2019-06-04 17:44:25: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 17:44:36: 30 seconds since last sync, 0 changes so far.
+2019-06-04 17:44:36: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 17:44:46: 40 seconds since last sync, 0 changes so far.
+2019-06-04 17:44:46: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 17:44:56: 50 seconds since last sync, 0 changes so far.
+2019-06-04 17:44:56: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 17:45:06: Time threshold reached (60 seconds), starting sync.
+2019-06-04 17:45:14: Sync request successful.
+2019-06-04 17:45:14: 0 seconds since last sync, 0 changes so far.
+2019-06-04 17:45:14: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 17:45:25: 10 seconds since last sync, 0 changes so far.
+2019-06-04 17:45:25: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 17:45:35: 20 seconds since last sync, 0 changes so far.
+2019-06-04 17:45:35: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 17:45:46: 30 seconds since last sync, 0 changes so far.
+2019-06-04 17:45:46: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 17:45:56: 40 seconds since last sync, 0 changes so far.
+2019-06-04 17:45:56: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 17:46:06: 50 seconds since last sync, 0 changes so far.
+2019-06-04 17:46:06: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 17:46:17: Time threshold reached (60 seconds), starting sync.
+2019-06-04 17:46:38: Sync request successful.
+2019-06-04 17:46:38: Change threshold reached (151 changes), starting sync.
+2019-06-04 17:46:54: Sync request successful.
+2019-06-04 17:46:54: Change threshold reached (270 changes), starting sync.
+2019-06-04 17:47:07: Sync request successful.
+2019-06-04 17:47:07: Change threshold reached (344 changes), starting sync.
+2019-06-04 17:47:22: Sync request successful.
+2019-06-04 17:47:22: Change threshold reached (316 changes), starting sync.
+2019-06-04 17:47:30: Sync request successful.
+2019-06-04 17:47:30: 0 seconds since last sync, 0 changes so far.
+2019-06-04 17:47:30: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 17:47:40: 10 seconds since last sync, 0 changes so far.
+2019-06-04 17:47:40: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 17:47:51: 20 seconds since last sync, 0 changes so far.
+2019-06-04 17:47:51: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 17:47:59: Change threshold reached (44 changes), starting sync.
+2019-06-04 17:48:13: Sync request successful.
+2019-06-04 17:48:13: Change threshold reached (1077 changes), starting sync.
+2019-06-04 17:48:28: Sync request successful.
+2019-06-04 17:48:28: Change threshold reached (1266 changes), starting sync.
+2019-06-04 17:48:53: Sync request successful.
+2019-06-04 17:48:53: Change threshold reached (2472 changes), starting sync.
+2019-06-04 17:49:07: Sync request successful.
+2019-06-04 17:49:07: Change threshold reached (2362 changes), starting sync.
+2019-06-04 17:49:26: Sync request successful.
+2019-06-04 17:49:26: Change threshold reached (2530 changes), starting sync.
+2019-06-04 17:49:43: Sync request successful.
+2019-06-04 17:49:43: Change threshold reached (2283 changes), starting sync.
+2019-06-04 17:50:01: Sync request successful.
+2019-06-04 17:50:01: Change threshold reached (2601 changes), starting sync.
+2019-06-04 17:50:15: Sync request successful.
+2019-06-04 17:50:15: Change threshold reached (2202 changes), starting sync.
+2019-06-04 17:50:29: Sync request successful.
+2019-06-04 17:50:29: Change threshold reached (2414 changes), starting sync.
+2019-06-04 17:50:44: Sync request successful.
+2019-06-04 17:50:44: Change threshold reached (2471 changes), starting sync.
+2019-06-04 17:51:01: Sync request successful.
+2019-06-04 17:51:01: Change threshold reached (2685 changes), starting sync.
+2019-06-04 17:51:17: Sync request successful.
+2019-06-04 17:51:17: Change threshold reached (2496 changes), starting sync.
+2019-06-04 17:51:41: Sync request successful.
+2019-06-04 17:51:41: Change threshold reached (2589 changes), starting sync.
+2019-06-04 17:51:56: Sync request successful.
+2019-06-04 17:51:56: Change threshold reached (2097 changes), starting sync.
+2019-06-04 17:52:15: Sync request successful.
+2019-06-04 17:52:15: Change threshold reached (1947 changes), starting sync.
+2019-06-04 17:52:32: Sync request successful.
+2019-06-04 17:52:32: Change threshold reached (2407 changes), starting sync.
+2019-06-04 17:52:52: Sync request successful.
+2019-06-04 17:52:52: Change threshold reached (2654 changes), starting sync.
+2019-06-04 17:53:20: Sync request successful.
+2019-06-04 17:53:20: Change threshold reached (2917 changes), starting sync.
+2019-06-04 17:53:38: Sync request successful.
+2019-06-04 17:53:38: Change threshold reached (2327 changes), starting sync.
+2019-06-04 17:53:52: Sync request successful.
+2019-06-04 17:53:52: Change threshold reached (2037 changes), starting sync.
+2019-06-04 17:54:08: Sync request successful.
+2019-06-04 17:54:08: Change threshold reached (2396 changes), starting sync.
+2019-06-04 17:54:26: Sync request successful.
+2019-06-04 17:54:26: Change threshold reached (2618 changes), starting sync.
+2019-06-04 17:54:40: Sync request successful.
+2019-06-04 17:54:40: Change threshold reached (2390 changes), starting sync.
+2019-06-04 17:55:00: Sync request successful.
+2019-06-04 17:55:00: Change threshold reached (2679 changes), starting sync.
+2019-06-04 17:55:24: Sync request successful.
+2019-06-04 17:55:24: Change threshold reached (2845 changes), starting sync.
+2019-06-04 17:55:43: Sync request successful.
+2019-06-04 17:55:43: Change threshold reached (2684 changes), starting sync.
+2019-06-04 17:55:56: Sync request successful.
+2019-06-04 17:55:56: Change threshold reached (2374 changes), starting sync.
+2019-06-04 17:56:13: Sync request successful.
+2019-06-04 17:56:13: Change threshold reached (2767 changes), starting sync.
+2019-06-04 17:56:27: Sync request successful.
+2019-06-04 17:56:27: Change threshold reached (2482 changes), starting sync.
+2019-06-04 17:56:42: Sync request successful.
+2019-06-04 17:56:42: Change threshold reached (2587 changes), starting sync.
+2019-06-04 17:56:56: Sync request successful.
+2019-06-04 17:56:56: Change threshold reached (2507 changes), starting sync.
+2019-06-04 17:57:10: Sync request successful.
+2019-06-04 17:57:10: Change threshold reached (2557 changes), starting sync.
+2019-06-04 17:57:24: Sync request successful.
+2019-06-04 17:57:24: Change threshold reached (2522 changes), starting sync.
+2019-06-04 17:57:45: Sync request successful.
+2019-06-04 17:57:45: Change threshold reached (2716 changes), starting sync.
+2019-06-04 17:57:59: Sync request successful.
+2019-06-04 17:57:59: Change threshold reached (2421 changes), starting sync.
+2019-06-04 17:58:13: Sync request successful.
+2019-06-04 17:58:13: Change threshold reached (2538 changes), starting sync.
+2019-06-04 17:58:29: Sync request successful.
+2019-06-04 17:58:29: Change threshold reached (2745 changes), starting sync.
+2019-06-04 17:58:42: Sync request successful.
+2019-06-04 17:58:42: Change threshold reached (2616 changes), starting sync.
+2019-06-04 17:59:09: Sync request successful.
+2019-06-04 17:59:09: Change threshold reached (2823 changes), starting sync.
+2019-06-04 17:59:29: Sync request successful.
+2019-06-04 17:59:29: Change threshold reached (2543 changes), starting sync.
+2019-06-04 17:59:44: Sync request successful.
+2019-06-04 17:59:44: Change threshold reached (1853 changes), starting sync.
+2019-06-04 18:00:24: Sync request successful.
+2019-06-04 18:00:25: Change threshold reached (2122 changes), starting sync.
+2019-06-04 18:00:48: Sync request successful.
+2019-06-04 18:00:48: Change threshold reached (1492 changes), starting sync.
+2019-06-04 18:01:23: Sync request successful.
+2019-06-04 18:01:23: Change threshold reached (1886 changes), starting sync.
+2019-06-04 18:01:50: Sync request successful.
+2019-06-04 18:01:50: Change threshold reached (1448 changes), starting sync.
+2019-06-04 18:02:13: Sync request successful.
+2019-06-04 18:02:13: Change threshold reached (1537 changes), starting sync.
+2019-06-04 18:02:27: Sync request successful.
+2019-06-04 18:02:27: Change threshold reached (1508 changes), starting sync.
+2019-06-04 18:02:47: Sync request successful.
+2019-06-04 18:02:47: Change threshold reached (1645 changes), starting sync.
+2019-06-04 18:03:31: Sync request successful.
+2019-06-04 18:03:31: Change threshold reached (2049 changes), starting sync.
+2019-06-04 18:03:50: Sync request successful.
+2019-06-04 18:03:50: Change threshold reached (1242 changes), starting sync.
+2019-06-04 18:04:04: Sync request successful.
+2019-06-04 18:04:05: Change threshold reached (1296 changes), starting sync.
+2019-06-04 18:04:31: Sync request successful.
+2019-06-04 18:04:31: Change threshold reached (1546 changes), starting sync.
+2019-06-04 18:04:45: Sync request successful.
+2019-06-04 18:04:45: Change threshold reached (1308 changes), starting sync.
+2019-06-04 18:05:01: Sync request successful.
+2019-06-04 18:05:01: Change threshold reached (1434 changes), starting sync.
+2019-06-04 18:05:40: Sync request successful.
+2019-06-04 18:05:41: Change threshold reached (1710 changes), starting sync.
+2019-06-04 18:05:56: Sync request successful.
+2019-06-04 18:05:56: Change threshold reached (1131 changes), starting sync.
+2019-06-04 18:06:42: Sync request successful.
+2019-06-04 18:06:42: Change threshold reached (1703 changes), starting sync.
+2019-06-04 18:07:01: Sync request successful.
+2019-06-04 18:07:01: Change threshold reached (1583 changes), starting sync.
+2019-06-04 18:07:16: Sync request successful.
+2019-06-04 18:07:16: Change threshold reached (1576 changes), starting sync.
+2019-06-04 18:07:31: Sync request successful.
+2019-06-04 18:07:31: Change threshold reached (1682 changes), starting sync.
+2019-06-04 18:07:49: Sync request successful.
+2019-06-04 18:07:49: Change threshold reached (1755 changes), starting sync.
+2019-06-04 18:08:06: Sync request successful.
+2019-06-04 18:08:06: Change threshold reached (2155 changes), starting sync.
+2019-06-04 18:08:36: Sync request successful.
+2019-06-04 18:08:36: Change threshold reached (2337 changes), starting sync.
+2019-06-04 18:08:50: Sync request successful.
+2019-06-04 18:08:50: Change threshold reached (1864 changes), starting sync.
+2019-06-04 18:09:10: Sync request successful.
+2019-06-04 18:09:10: Change threshold reached (2232 changes), starting sync.
+2019-06-04 18:09:25: Sync request successful.
+2019-06-04 18:09:25: Change threshold reached (2413 changes), starting sync.
+2019-06-04 18:09:40: Sync request successful.
+2019-06-04 18:09:40: Change threshold reached (2510 changes), starting sync.
+2019-06-04 18:10:11: Sync request successful.
+2019-06-04 18:10:11: Change threshold reached (2830 changes), starting sync.
+2019-06-04 18:10:34: Sync request successful.
+2019-06-04 18:10:34: Change threshold reached (2312 changes), starting sync.
+2019-06-04 18:10:48: Sync request successful.
+2019-06-04 18:10:48: Change threshold reached (1817 changes), starting sync.
+2019-06-04 18:11:02: Sync request successful.
+2019-06-04 18:11:02: Change threshold reached (1926 changes), starting sync.
+2019-06-04 18:11:18: Sync request successful.
+2019-06-04 18:11:18: Change threshold reached (2149 changes), starting sync.
+2019-06-04 18:11:37: Sync request successful.
+2019-06-04 18:11:37: Change threshold reached (2262 changes), starting sync.
+2019-06-04 18:12:03: Sync request successful.
+2019-06-04 18:12:04: Change threshold reached (2108 changes), starting sync.
+2019-06-04 18:12:19: Sync request successful.
+2019-06-04 18:12:19: Change threshold reached (1883 changes), starting sync.
+2019-06-04 18:12:37: Sync request successful.
+2019-06-04 18:12:37: Change threshold reached (2095 changes), starting sync.
+2019-06-04 18:12:56: Sync request successful.
+2019-06-04 18:12:56: Change threshold reached (2193 changes), starting sync.
+2019-06-04 18:13:15: Sync request successful.
+2019-06-04 18:13:16: Change threshold reached (2106 changes), starting sync.
+2019-06-04 18:13:30: Sync request successful.
+2019-06-04 18:13:30: Change threshold reached (1918 changes), starting sync.
+2019-06-04 18:13:49: Sync request successful.
+2019-06-04 18:13:50: Change threshold reached (2314 changes), starting sync.
+2019-06-04 18:14:17: Sync request successful.
+2019-06-04 18:14:18: Change threshold reached (2418 changes), starting sync.
+2019-06-04 18:14:54: Sync request successful.
+2019-06-04 18:14:55: Change threshold reached (2387 changes), starting sync.
+2019-06-04 18:15:13: Sync request successful.
+2019-06-04 18:15:13: Change threshold reached (1705 changes), starting sync.
+2019-06-04 18:15:31: Sync request successful.
+2019-06-04 18:15:32: Change threshold reached (1774 changes), starting sync.
+2019-06-04 18:15:50: Sync request successful.
+2019-06-04 18:15:50: Change threshold reached (1755 changes), starting sync.
+2019-06-04 18:16:10: Sync request successful.
+2019-06-04 18:16:10: Change threshold reached (2008 changes), starting sync.
+2019-06-04 18:16:37: Sync request successful.
+2019-06-04 18:16:37: Change threshold reached (2082 changes), starting sync.
+2019-06-04 18:16:56: Sync request successful.
+2019-06-04 18:16:56: Change threshold reached (1941 changes), starting sync.
+2019-06-04 18:17:14: Sync request successful.
+2019-06-04 18:17:14: Change threshold reached (2127 changes), starting sync.
+2019-06-04 18:17:33: Sync request successful.
+2019-06-04 18:17:33: Change threshold reached (2550 changes), starting sync.
+2019-06-04 18:17:51: Sync request successful.
+2019-06-04 18:17:52: Change threshold reached (2640 changes), starting sync.
+2019-06-04 18:18:10: Sync request successful.
+2019-06-04 18:18:10: Change threshold reached (2761 changes), starting sync.
+2019-06-04 18:18:28: Sync request successful.
+2019-06-04 18:18:28: Change threshold reached (2673 changes), starting sync.
+2019-06-04 18:18:50: Sync request successful.
+2019-06-04 18:18:51: Change threshold reached (2959 changes), starting sync.
+2019-06-04 18:19:15: Sync request successful.
+2019-06-04 18:19:16: Change threshold reached (3210 changes), starting sync.
+2019-06-04 18:19:43: Sync request successful.
+2019-06-04 18:19:43: Change threshold reached (3245 changes), starting sync.
+2019-06-04 18:20:02: Sync request successful.
+2019-06-04 18:20:02: Change threshold reached (2810 changes), starting sync.
+2019-06-04 18:20:15: Sync request successful.
+2019-06-04 18:20:15: Change threshold reached (2511 changes), starting sync.
+2019-06-04 18:20:29: Sync request successful.
+2019-06-04 18:20:29: Change threshold reached (2616 changes), starting sync.
+2019-06-04 18:20:47: Sync request successful.
+2019-06-04 18:20:47: Change threshold reached (2642 changes), starting sync.
+2019-06-04 18:21:10: Sync request successful.
+2019-06-04 18:21:10: Change threshold reached (3009 changes), starting sync.
+2019-06-04 18:21:32: Sync request successful.
+2019-06-04 18:21:33: Change threshold reached (3035 changes), starting sync.
+2019-06-04 18:21:51: Sync request successful.
+2019-06-04 18:21:51: Change threshold reached (2627 changes), starting sync.
+2019-06-04 18:22:05: Sync request successful.
+2019-06-04 18:22:05: Change threshold reached (2359 changes), starting sync.
+2019-06-04 18:22:25: Sync request successful.
+2019-06-04 18:22:26: Change threshold reached (2751 changes), starting sync.
+2019-06-04 18:22:44: Sync request successful.
+2019-06-04 18:22:44: Change threshold reached (2664 changes), starting sync.
+2019-06-04 18:23:03: Sync request successful.
+2019-06-04 18:23:03: Change threshold reached (2730 changes), starting sync.
+2019-06-04 18:23:17: Sync request successful.
+2019-06-04 18:23:17: Change threshold reached (2506 changes), starting sync.
+2019-06-04 18:23:32: Sync request successful.
+2019-06-04 18:23:33: Change threshold reached (2549 changes), starting sync.
+2019-06-04 18:23:48: Sync request successful.
+2019-06-04 18:23:49: Change threshold reached (2622 changes), starting sync.
+2019-06-04 18:24:03: Sync request successful.
+2019-06-04 18:24:03: Change threshold reached (2410 changes), starting sync.
+2019-06-04 18:24:22: Sync request successful.
+2019-06-04 18:24:22: Change threshold reached (2632 changes), starting sync.
+2019-06-04 18:24:42: Sync request successful.
+2019-06-04 18:24:42: Change threshold reached (2666 changes), starting sync.
+2019-06-04 18:25:02: Sync request successful.
+2019-06-04 18:25:02: Change threshold reached (2636 changes), starting sync.
+2019-06-04 18:25:23: Sync request successful.
+2019-06-04 18:25:24: Change threshold reached (2763 changes), starting sync.
+2019-06-04 18:25:48: Sync request successful.
+2019-06-04 18:25:48: Change threshold reached (2818 changes), starting sync.
+2019-06-04 18:26:08: Sync request successful.
+2019-06-04 18:26:09: Change threshold reached (2451 changes), starting sync.
+2019-06-04 18:26:30: Sync request successful.
+2019-06-04 18:26:30: Change threshold reached (2681 changes), starting sync.
+2019-06-04 18:26:55: Sync request successful.
+2019-06-04 18:26:55: Change threshold reached (2786 changes), starting sync.
+2019-06-04 18:27:13: Sync request successful.
+2019-06-04 18:27:13: Change threshold reached (2543 changes), starting sync.
+2019-06-04 18:27:33: Sync request successful.
+2019-06-04 18:27:33: Change threshold reached (2135 changes), starting sync.
+2019-06-04 18:27:51: Sync request successful.
+2019-06-04 18:27:51: Change threshold reached (1141 changes), starting sync.
+2019-06-04 18:28:06: Sync request successful.
+2019-06-04 18:28:06: Change threshold reached (534 changes), starting sync.
+2019-06-04 18:28:20: Sync request successful.
+2019-06-04 18:28:21: Change threshold reached (92 changes), starting sync.
+2019-06-04 18:28:33: Sync request successful.
+2019-06-04 18:28:33: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:28:33: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:28:45: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:28:45: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:28:57: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:28:57: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:29:09: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:29:09: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:29:21: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:29:21: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:29:33: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:29:33: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:29:44: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:29:54: Sync request successful.
+2019-06-04 18:29:55: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:29:55: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:30:07: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:30:07: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:30:19: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:30:19: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:30:31: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:30:31: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:30:43: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:30:43: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:30:55: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:30:55: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:31:07: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:31:17: Sync request successful.
+2019-06-04 18:31:17: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:31:17: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:31:29: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:31:29: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:31:42: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:31:42: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:31:54: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:31:54: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:32:06: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:32:06: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:32:18: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:32:19: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:32:31: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:32:41: Sync request successful.
+2019-06-04 18:32:41: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:32:41: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:32:54: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:32:54: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:33:06: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:33:06: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:33:19: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:33:19: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:33:31: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:33:31: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:33:44: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:33:44: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:33:56: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:34:12: Sync request successful.
+2019-06-04 18:34:12: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:34:12: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:34:24: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:34:24: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:34:37: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:34:37: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:34:49: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:34:49: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:35:02: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:35:02: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:35:14: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:35:14: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:35:26: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:35:36: Sync request successful.
+2019-06-04 18:35:37: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:35:37: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:35:48: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:35:48: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:36:00: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:36:00: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:36:12: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:36:12: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:36:24: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:36:24: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:36:36: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:36:36: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:36:48: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:36:59: Sync request successful.
+2019-06-04 18:36:59: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:36:59: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:37:11: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:37:11: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:37:23: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:37:23: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:37:36: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:37:36: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:37:48: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:37:48: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:38:00: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:38:00: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:38:12: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:38:22: Sync request successful.
+2019-06-04 18:38:22: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:38:22: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:38:34: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:38:34: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:38:46: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:38:46: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:38:58: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:38:58: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:39:09: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:39:09: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:39:21: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:39:21: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:39:33: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:39:43: Sync request successful.
+2019-06-04 18:39:43: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:39:43: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:39:55: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:39:55: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:40:07: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:40:07: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:40:19: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:40:19: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:40:31: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:40:32: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:40:44: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:40:44: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:40:56: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:41:05: Sync request successful.
+2019-06-04 18:41:05: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:41:05: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:41:17: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:41:17: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:41:29: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:41:29: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:41:41: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:41:41: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:41:53: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:41:53: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:42:05: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:42:05: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:42:17: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:42:25: Sync request successful.
+2019-06-04 18:42:25: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:42:25: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:42:37: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:42:37: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:42:50: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:42:50: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:43:02: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:43:02: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:43:14: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:43:14: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:43:26: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:43:26: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:43:39: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:43:47: Sync request successful.
+2019-06-04 18:43:47: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:43:47: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:43:59: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:43:59: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:44:12: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:44:12: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:44:24: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:44:24: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:44:37: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:44:37: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:44:50: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:44:50: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:45:02: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:45:12: Sync request successful.
+2019-06-04 18:45:12: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:45:12: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:45:25: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:45:25: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:45:37: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:45:37: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:45:51: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:45:51: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:46:05: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:46:05: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:46:17: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:46:17: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:46:29: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:46:37: Sync request successful.
+2019-06-04 18:46:38: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:46:38: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:46:50: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:46:50: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:47:02: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:47:02: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:47:13: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:47:13: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:47:25: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:47:25: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:47:38: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:47:38: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:47:50: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:47:59: Sync request successful.
+2019-06-04 18:47:59: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:47:59: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:48:11: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:48:11: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:48:23: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:48:23: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:48:35: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:48:35: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:48:47: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:48:47: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:48:59: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:48:59: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:49:11: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:49:19: Sync request successful.
+2019-06-04 18:49:19: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:49:19: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:49:31: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:49:31: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:49:43: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:49:43: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:49:55: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:49:55: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:50:08: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:50:08: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:50:20: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:50:20: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:50:32: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:50:46: Sync request successful.
+2019-06-04 18:50:46: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:50:46: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:50:58: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:50:58: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:51:10: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:51:10: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:51:22: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:51:22: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:51:35: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:51:35: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:51:47: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:51:47: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:51:59: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:52:08: Sync request successful.
+2019-06-04 18:52:08: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:52:08: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:52:21: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:52:21: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:52:34: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:52:34: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:52:46: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:52:46: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:52:58: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:52:58: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:53:10: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:53:10: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:53:23: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:53:31: Sync request successful.
+2019-06-04 18:53:31: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:53:31: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:53:43: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:53:43: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:53:55: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:53:55: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:54:07: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:54:07: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:54:19: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:54:19: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:54:31: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:54:31: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:54:43: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:54:51: Sync request successful.
+2019-06-04 18:54:52: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:54:52: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:55:04: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:55:04: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:55:15: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:55:15: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:55:27: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:55:27: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:55:40: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:55:40: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:55:52: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:55:52: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:56:04: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:56:12: Sync request successful.
+2019-06-04 18:56:12: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:56:12: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:56:24: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:56:24: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:56:36: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:56:36: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:56:49: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:56:49: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:57:01: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:57:01: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:57:14: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:57:14: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:57:26: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:57:36: Sync request successful.
+2019-06-04 18:57:36: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:57:36: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:57:48: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:57:48: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:58:00: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:58:00: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:58:12: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:58:12: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:58:24: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:58:24: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:58:36: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:58:36: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 18:58:48: Time threshold reached (60 seconds), starting sync.
+2019-06-04 18:58:59: Sync request successful.
+2019-06-04 18:58:59: 0 seconds since last sync, 0 changes so far.
+2019-06-04 18:58:59: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 18:59:11: 10 seconds since last sync, 0 changes so far.
+2019-06-04 18:59:11: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 18:59:23: 20 seconds since last sync, 0 changes so far.
+2019-06-04 18:59:23: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 18:59:35: 30 seconds since last sync, 0 changes so far.
+2019-06-04 18:59:35: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 18:59:47: 40 seconds since last sync, 0 changes so far.
+2019-06-04 18:59:47: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 18:59:59: 50 seconds since last sync, 0 changes so far.
+2019-06-04 18:59:59: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:00:11: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:00:20: Sync request successful.
+2019-06-04 19:00:20: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:00:20: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:00:33: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:00:33: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:00:45: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:00:45: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:00:57: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:00:57: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 19:01:09: 40 seconds since last sync, 0 changes so far.
+2019-06-04 19:01:09: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 19:01:21: 50 seconds since last sync, 0 changes so far.
+2019-06-04 19:01:21: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:01:33: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:01:43: Sync request successful.
+2019-06-04 19:01:43: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:01:43: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:01:56: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:01:56: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:02:08: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:02:08: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:02:20: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:02:20: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 19:02:32: 40 seconds since last sync, 0 changes so far.
+2019-06-04 19:02:32: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 19:02:44: 50 seconds since last sync, 0 changes so far.
+2019-06-04 19:02:44: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:02:57: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:03:07: Sync request successful.
+2019-06-04 19:03:08: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:03:08: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:03:20: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:03:20: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:03:32: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:03:32: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:03:44: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:03:44: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 19:03:56: 40 seconds since last sync, 0 changes so far.
+2019-06-04 19:03:56: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 19:04:09: 50 seconds since last sync, 0 changes so far.
+2019-06-04 19:04:09: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:04:21: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:04:34: Sync request successful.
+2019-06-04 19:04:34: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:04:34: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:04:46: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:04:46: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:04:58: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:04:58: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:05:10: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:05:10: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 19:05:22: 40 seconds since last sync, 0 changes so far.
+2019-06-04 19:05:22: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 19:05:34: 50 seconds since last sync, 0 changes so far.
+2019-06-04 19:05:34: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:05:46: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:05:54: Sync request successful.
+2019-06-04 19:05:55: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:05:55: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:06:07: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:06:07: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:06:19: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:06:19: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:06:31: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:06:31: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 19:06:43: 40 seconds since last sync, 0 changes so far.
+2019-06-04 19:06:43: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 19:06:55: 50 seconds since last sync, 0 changes so far.
+2019-06-04 19:06:55: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:07:07: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:07:14: Sync request successful.
+2019-06-04 19:07:14: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:07:14: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:07:27: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:07:27: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:07:39: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:07:39: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:07:50: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:07:50: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 19:08:02: 40 seconds since last sync, 0 changes so far.
+2019-06-04 19:08:02: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 19:08:14: 50 seconds since last sync, 0 changes so far.
+2019-06-04 19:08:14: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:08:26: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:08:36: Sync request successful.
+2019-06-04 19:08:36: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:08:36: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:08:48: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:08:48: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:09:00: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:09:00: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:09:12: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:09:12: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 19:09:24: 40 seconds since last sync, 0 changes so far.
+2019-06-04 19:09:24: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 19:09:36: 50 seconds since last sync, 0 changes so far.
+2019-06-04 19:09:36: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:09:48: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:09:57: Sync request successful.
+2019-06-04 19:09:57: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:09:57: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:10:09: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:10:09: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:10:20: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:10:20: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:10:33: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:10:33: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 19:10:45: 40 seconds since last sync, 0 changes so far.
+2019-06-04 19:10:45: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 19:10:56: 50 seconds since last sync, 0 changes so far.
+2019-06-04 19:10:56: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:11:08: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:11:19: Sync request successful.
+2019-06-04 19:11:19: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:11:19: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:11:31: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:11:31: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:11:43: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:11:43: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:11:55: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:11:55: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 19:12:07: 40 seconds since last sync, 0 changes so far.
+2019-06-04 19:12:07: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 19:12:19: 50 seconds since last sync, 0 changes so far.
+2019-06-04 19:12:19: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:12:31: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:12:41: Sync request successful.
+2019-06-04 19:12:42: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:12:42: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:12:54: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:12:54: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:13:06: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:13:06: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:13:18: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:13:18: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 19:13:30: 40 seconds since last sync, 0 changes so far.
+2019-06-04 19:13:30: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 19:13:42: 50 seconds since last sync, 0 changes so far.
+2019-06-04 19:13:42: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:13:54: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:14:01: Sync request successful.
+2019-06-04 19:14:01: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:14:01: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:14:13: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:14:13: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:14:25: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:14:25: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:14:38: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:14:38: Waiting for 30 more seconds or for 1 more changes.
+2019-06-04 19:14:50: 40 seconds since last sync, 0 changes so far.
+2019-06-04 19:14:50: Waiting for 20 more seconds or for 1 more changes.
+2019-06-04 19:15:02: 50 seconds since last sync, 0 changes so far.
+2019-06-04 19:15:02: Waiting for 10 more seconds or for 1 more changes.
+2019-06-04 19:15:14: Time threshold reached (60 seconds), starting sync.
+2019-06-04 19:15:23: Sync request successful.
+2019-06-04 19:15:23: 0 seconds since last sync, 0 changes so far.
+2019-06-04 19:15:23: Waiting for 60 more seconds or for 1 more changes.
+2019-06-04 19:15:36: 10 seconds since last sync, 0 changes so far.
+2019-06-04 19:15:36: Waiting for 50 more seconds or for 1 more changes.
+2019-06-04 19:15:48: 20 seconds since last sync, 0 changes so far.
+2019-06-04 19:15:48: Waiting for 40 more seconds or for 1 more changes.
+2019-06-04 19:16:00: 30 seconds since last sync, 0 changes so far.
+2019-06-04 19:16:00: Waiting for 30 more seconds or for 1 more changes.
